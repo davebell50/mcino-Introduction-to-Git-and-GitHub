@@ -13,4 +13,8 @@ Output
    simple interest = p*t*r
 ```
 
+<<<<<<< HEAD
 _© 20233 XYZ, Inc._
+=======
+_© 2022 XYZ, Inc._
+>>>>>>> parent of 0e66746 (changed date from 2022 to 2023)
